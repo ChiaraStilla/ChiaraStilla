@@ -44,17 +44,25 @@
 
 <!-- git status-->
 <h3 align="center">⚡ Github Status</h3>
-<br>
+<br/>
 <div align="center">
 <img width="380" src="https://github-readme-stats.vercel.app/api?username=ChiaraStilla&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
 
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarastilla&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<br/><br/>
+<br/>
+<br/>
+
+<!-- Languages and tools-->
+<h3 align="center">📚 Languages & tools </h3>
+<br/>
+
+<div align="center">
+  <img alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  <img alt="C" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+  <img alt="Java" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+</div>
 
 
 
-<!--
-**ChiaraStilla/ChiaraStilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
