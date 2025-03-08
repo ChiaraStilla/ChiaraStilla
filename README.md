@@ -20,6 +20,16 @@
 </a>
 </div>
 
+<p align="center"> 
+    <a href="https://github.com/ChiaraStilla?tab=followers">
+        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ChiaraStilla?color=8A2BE2&labelColor=6A1B9A&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/ChiaraStilla?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ChiaraStilla?color=8A2BE2&style=for-the-badge&labelColor=6A1B9A&logo=star"/>
+    </a>
+</p>
+
+
 
 <!--
 **ChiaraStilla/ChiaraStilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
