@@ -12,13 +12,6 @@
 <h4 align="left">🌟Politecnico di Milano student | Learning to code and exploring the world of programming. </h4>
 
 
-<div align="center">
-<a>
-<img width="162px" 
-       src="https://visitor-badge.glitch.me/badge?page_id=ChiaraStilla" 
-       alt="Profile views" />
-</a>
-</div>
 
 <p align="center"> 
     <a href="https://github.com/ChiaraStilla?tab=followers">
